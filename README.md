@@ -45,4 +45,4 @@ BORDA is used to combine ranking results and determine the final recommendation 
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/4zm1/spk_moora_borda.git
+git clone https://github.com/ulx-23/spk_moora_borda.git
